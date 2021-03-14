@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.site-layout-content {
+    min-height: 80vh;
+    padding: 24px;
+    background: #fff;
+    position: relative;
+  }
+.ant-layout-header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ant-layout-header .h-logo{
+    color: white;
+    width: 10%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.ant-layout-header .h-title{
+    color: white;
+    width: 10%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.ant-layout-header .h-search{
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 20%;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    
+}

@@ -1,0 +1,8 @@
+.site-card-wrapper {
+    height: 80vh;
+    padding: 30px;
+    background: #ececec;
+  }
+.ant-card-meta-description{
+    word-break: break-word;
+}
